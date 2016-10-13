@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -27,3 +28,9 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+=======
+name: Alap Kshirsagar
+markdown: kramdown
+google_analytics: UA-85616478-1
+
+>>>>>>> 36329a1a47e931fd16621171416d8195a6f77f6c
