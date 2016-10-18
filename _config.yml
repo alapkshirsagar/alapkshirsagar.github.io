@@ -1,36 +1,26 @@
-<<<<<<< HEAD
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-
+relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+# title:            Alap
+# tagline:          'A Jekyll theme'
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-gems:		 [jekyll-gist,jekyll-paginate]
+  name:           Alap Kshirsagar
+#  url:            https://twitter.com/mdo
 
 paginate:         5
-
-paginate_path:	"page:num"
+gems:           [jekyll-paginate, jekyll-gist]
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
-=======
-name: Alap Kshirsagar
-markdown: kramdown
-google_analytics: UA-85616478-1
-
->>>>>>> 36329a1a47e931fd16621171416d8195a6f77f6c
+  repo:           https://github.com/alapkshirsagar

@@ -1,1 +1,1 @@
-This is my personal webpage build on jekyll theme 'Hyde'
+This is my personal webpage built using the Hyde theme on jekyll.
