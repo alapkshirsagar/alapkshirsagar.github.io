@@ -8,7 +8,7 @@ title: About me
  <tr>
    <td>Master of Technology in Mechanical Engineering <br>(Design Specialization) </td>
    <td>Indian Institute of Technology-Madras</td>
-   <td width="12%" align="center">July 2015 - <br> May 2017 </td>
+   <td width="15%" align="center">July 2015 - <br> May 2017 </td>
  </tr>
  <tr>
    <td>DAAD-IIT Sandwich Master Program <br >(Semester Exchange)</td>
@@ -26,7 +26,7 @@ title: About me
 <table>
  <tr>
    <td>IIT Master Sandwich scholarship by 'German Academic Exchange Service (DAAD)' </td>
-   <td width="12%" align="center">2016</td>
+   <td width="15%" align="center">2016</td>
  </tr>
  <tr>
    <td>S.N. Bose scholarship by 'Indo-US Science and Technology Forum'</td>
@@ -50,11 +50,11 @@ title: About me
 ## Research Experience
 <table>
  <tr>
-   <td>Master's Thesis, Institut für Getriebetechnik und Maschinendynamik, RWTH Aachen <br><em> Project topic: End effector tracking using an indoor positioning system </em> </td>
-   <td width="12%" align="center">Sept 2016 - <br>Present</td>
+   <td>Master's Thesis, Institut für Getriebetechnik und Maschinendynamik, RWTH Aachen <br><em> Topic: Tracking and control of UR-5 manipulator using iGPS and ROS </em> </td>
+   <td width="15%" align="center">Sept 2016 - <br>Present</td>
  </tr>
  <tr>
-   <td>Visiting Student Researcher, Mechanical Systems Control Lab, University of California Berkeley <br><em> Project topic: Robotic manipulation of deformable objects </em></td>
+   <td>Visiting Student Researcher, Mechanical Systems Control Lab, UC Berkeley <br><em> Topic: Robotic manipulation of deformable objects </em></td>
    <td align="center">May 2016 - <br>July 2016</td>
  </tr>
  <tr>
@@ -63,15 +63,15 @@ title: About me
    <td align="center">Sept 2014 - <br>June 2015 </td>
  </tr>
  <tr>
-   <td>B.Tech. Project, Mechanical Engineering Department, IIT Bombay <br><em> Project topic: Design Optimization and motion dynamics of Mobility System for Mars Rover </em></td>
+   <td>B.Tech. Project, Mechanical Engineering Department, IIT Bombay <br><em> Topic: Design Optimization and motion dynamics of Mobility System for Mars Rover </em></td>
    <td align="center">Aug 2013 - <br>Apr 2014 </td>
  </tr>
  <tr>
-   <td>Undergraduate Research Intern, Nonlinear Multifunctional Composites Analysis and Design Lab, Indian Institute of Science Bangalore <br><em> Project topic: Variational Asymptotic Method based modelling of Film-Fabric Laminates </em></td>
+   <td>Undergraduate Research Intern, Nonlinear Multifunctional Composites Analysis and Design Lab, IISc Bangalore <br><em> Topic: Variational Asymptotic Method based modelling of Film-Fabric Laminates </em></td>
    <td align="center">May 2013 - <br>July 2013 </td>
  </tr>
  <tr>
-   <td>Student Investigator, Rural Technology Advancement Group, IIT Bombay<br><em> Project topic: Design of Fabric Cutting Machine for Mat-making Handlooms </em></td>
+   <td>Student Investigator, Rural Technology Advancement Group, IIT Bombay<br><em> Topic: Design of Fabric Cutting Machine for Mat-making Handlooms </em></td>
    <td align="center">Jan 2012 - <br>Nov 2013 </td>
  </tr>
 </table>
