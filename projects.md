@@ -27,18 +27,18 @@ title: Projects
 <tr>
 <td width="30%" align="center">
 <img src="/project_images/msi.jpg" style="width:200px;height:200px;">
-The Mars Society India-IIT Bombay Rover Project
+<a href="/projects/MSI"> The Mars Society India-IIT Bombay Rover Project </a>
 <br> <em>IIT Bombay</em>
 </td>
 
 <td width="30%" align="center">
 <img src="/project_images/parinat2.jpg" style="width:200px;height:200px;">
-<em>Parinat</em>: IITB Small Humanoid Robot Project
+<a href="/projects/Parinat"> <em>Parinat</em>: IIT Bombay's Small Humanoid Robot Project </a>
 <br><em>IIT Bombay</em>
 </td>
 <td width="30%" align="center">
 <img src="/project_images/bkb1.jpg" style="width:200px;height:200px;">
-Autonomous Book Keeping Robot Project
+<a href="/projects/BKB">Book Keeping Robot for Library</a>
 <br><em>IIT Bombay</em></td>
 </tr>
 
