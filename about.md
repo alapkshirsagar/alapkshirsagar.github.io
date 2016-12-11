@@ -11,7 +11,7 @@ Goal: <em> Expanding the horizons of robotics for improving life on (and beyond!
 <br>
 
 
-### Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
+Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </p>
 <br>
 ## Education
