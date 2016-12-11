@@ -10,7 +10,9 @@ Inspiration:<em> Look at the sky. We are not alone. The whole universe is friend
 <br>
 Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </p>
+
 <br><br>
+
 ## Education
 <table>
  <tr>
