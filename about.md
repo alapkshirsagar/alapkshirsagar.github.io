@@ -2,7 +2,14 @@
 layout: page
 title: About me
 ---
-
+<img src="/public/me.JPG" alt="Me" style="width:250px;height:250px;" align="right">
+<br>
+Inspiration:<em> Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work. - A.P.J. Abdul Kalam</em>
+<br><br>
+Goal: <em> Expanding the horizons of robotics for improving life on (and beyond!) planet earth. </em>
+<br>
+### Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
+<br>
 ## Education
 <table>
  <tr>
