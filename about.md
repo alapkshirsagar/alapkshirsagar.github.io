@@ -10,8 +10,8 @@ Inspiration:<em> Look at the sky. We are not alone. The whole universe is friend
 Goal: <em> Expanding the horizons of robotics for improving life on (and beyond!) planet earth. </em>
 <br>
 </p>
-
 ### Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
+
 <br>
 ## Education
 <table>
