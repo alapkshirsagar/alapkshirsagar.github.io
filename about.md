@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Curriculum Vitae
 ---
 <p>
 <img src="/public/me.JPG" alt="Me" style="width:250px;height:250px;" align="right">
