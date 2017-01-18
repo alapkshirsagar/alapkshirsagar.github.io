@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Alap Kshirsagar
-tagline:          Homepage
-# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-# url:              http://hyde.getpoole.com
+title:            Alap's Personal Webpage
+#tagline:
+description:      Curriculum Vitae, Projects and Travel Blog
+url:              https://alapkshirsagar.github.io/
 baseurl:          /
 
 author:
@@ -18,9 +18,9 @@ author:
 #  url:            https://twitter.com/mdo
 
 paginate:         5
-gems:           [jekyll-paginate, jekyll-gist]
+gems:           [jekyll-paginate, jekyll-gist, jekyll-seo-tag]
 # Custom vars
-version:          1.0.0
+version:          1.1.0
 
 github:
   repo:           https://github.com/alapkshirsagar
