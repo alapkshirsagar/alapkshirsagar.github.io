@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Alap Kshirsagar
 tagline:          Personal Webpage
-#description:      Curriculum Vitae, Projects and Travel Blog
+# description:     
 url:              https://alapkshirsagar.github.io/
 baseurl:          /
 
