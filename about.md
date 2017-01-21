@@ -3,16 +3,10 @@ layout: page
 title: Curriculum Vitae
 ---
 <p>
-<img src="/public/me.JPG" alt="Me" style="width:250px;height:250px;" align="right">
-<br>
 Inspiration:<em> Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work. - A.P.J. Abdul Kalam</em>
-<br><br>
 <br>
 Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </p>
-
-<br><br>
-
 ## Education
 <table>
  <tr>
@@ -43,8 +37,16 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
    <td align="center">2016</td>
  </tr>
  <tr>
+   <td>Gandhian Young Technological Innovation Award by ‘Society for Research and Initiatives for Sustainable Technologies and Institutions, India’</td>
+   <td align="center">2013</td>
+ </tr>
+ <tr>
    <td>Institute Technical Special Mention for notable contribution in robotics activities at IIT Bombay</td>
    <td align="center">2012 </td>
+ </tr>
+ <tr>
+   <td>Amul Vidya Bhushan award for academic excellence at higher secondary level </td>
+   <td align="center">2010</td>
  </tr>
  <tr>
    <td>KVPY (Kishore Vaigyanik Protsahan Yojana or Young Scientist Initiative) by DST, Government of India</td>

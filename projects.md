@@ -48,6 +48,24 @@ title: Projects
 <table>
 <tr>
 <td width="30%" align="center">
+<img src="/project_images/breakaway.jpg" style="width:200px;height:200px;">
+<a href="/projects/breakaway">Trajectory simulation of breakaway aerostat</a>
+<br><em>IIT Bombay</em></td>
+<td width="30%" align="center">
+<img src="/project_images/vam.jpg" style="width:200px;height:200px;">
+<a href="/projects/vam">VAM based modeling of film-fabric laminates</a>
+<br> <em>IISc Bangalore</em></td>
+<td width="30%" align="center">
+<img src="/project_images/fabric.jpg" style="width:200px;height:200px;">
+<a href="/projects/fabric">Fabric cutting machine for mat-making handlooms</a>
+<br><em>IIT Bombay</em></td>
+</tr>
+<tr>
+<td width="30%" align="center">
+<img src="/project_images/semirigid.jpg" style="width:200px;height:200px;">
+<a href="/projects/semirigid">Dismantle-able semi rigid airship</a>
+<br> <em>IIT Bombay</em></td>
+<td width="30%" align="center">
 <img src="/project_images/electrolarynx.jpg" style="width:200px;height:200px;">
 Advanced Electrolarynx
 <br> Team Sahay
@@ -56,24 +74,6 @@ Advanced Electrolarynx
 <img src="/project_images/epicyclic.jpg" style="width:200px;height:200px;">
 Epicyclic Gearbox for Crawler Dozer
 <br><em>IIT Madras</em></td>
-<td width="30%" align="center">
-<img src="/project_images/semirigid.jpg" style="width:200px;height:200px;">
-Dismantle-able semi rigid airship
-<br> <em>IIT Bombay</em></td>
-</tr>
-<tr>
-<td width="30%" align="center">
-<img src="/project_images/breakaway.jpg" style="width:200px;height:200px;">
-Trajectory simulation of breakaway aerostat
-<br><em>IIT Bombay</em></td>
-<td width="30%" align="center">
-<img src="/project_images/vam.jpg" style="width:200px;height:200px;">
-VAM based modeling of film-fabric laminates
-<br> <em>IISc Bangalore</em></td>
-<td width="30%" align="center">
-<img src="/project_images/fabric.jpg" style="width:200px;height:200px;">
-Fabric cutting machine for mat-making handlooms
-<br><em>IIT Bombay</em></td>
 </tr>
 </table>
 <!--
