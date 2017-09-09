@@ -4,7 +4,7 @@
 
 .slides {
   padding: 0;
-  width: 609px;
+  width: 70%;
   height: 420px;
   display: block;
   margin: 0 auto;
@@ -31,7 +31,7 @@
 .slide {
   top: 0;
   opacity: 0;
-  width: 609px;
+  width: 100%;
   height: 420px;
   display: block;
   position: absolute;
