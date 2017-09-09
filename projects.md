@@ -7,7 +7,7 @@ title: Projects
 <tr>
 <td width="30%" align="center">
 <img src="/project_images/ur5.jpg" style="width:200px;height:200px;">
-<a href="/projects/MTP"> Tracking and control of UR-5 manipulator using iGPS and ROS </a>
+<a href="/projects/MTP"> iGPS based motion control of robotic manipulator using ROS </a>
 <br> <em>RWTH Aachen</em>
 </td>
 

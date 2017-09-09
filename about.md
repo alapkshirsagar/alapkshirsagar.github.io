@@ -9,6 +9,11 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </p>
 ## Education
 <table>
+<tr>
+  <td>PhD in Mechanical Engineering </td>
+  <td>Cornell University</td>
+  <td width="15%" align="center">August 2017 - <br> Ongoing </td>
+</tr>
  <tr>
    <td>Master of Technology in Mechanical Engineering <br>(Design Specialization) </td>
    <td>Indian Institute of Technology-Madras</td>
@@ -62,8 +67,8 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 ## Research Experience
 <table>
  <tr>
-   <td>Master's Thesis, Institut für Getriebetechnik und Maschinendynamik, RWTH Aachen <br><em> Topic: Tracking and control of UR-5 manipulator using iGPS and ROS </em> </td>
-   <td width="15%" align="center">Sept 2016 - <br>Present</td>
+   <td>Master's Thesis, Institut für Getriebetechnik und Maschinendynamik, RWTH Aachen <br><em> Topic: iGPS based motion control of robotic manipulator using Robot Operating System (ROS) </em> </td>
+   <td width="15%" align="center">Sept 2016 - <br>March 2017</td>
  </tr>
  <tr>
    <td>Visiting Student Researcher, Mechanical Systems Control Lab, UC Berkeley <br><em> Topic: Robotic manipulation of deformable objects </em></td>
