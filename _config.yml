@@ -9,9 +9,9 @@ relative_permalinks: false
 # Setup
 title:            Alap Kshirsagar
 tagline:          Personal Webpage
-# description:     
+# description:
 url:              https://alapkshirsagar.github.io/
-baseurl:          /
+baseurl:          
 
 author:
   name:           Alap Kshirsagar
