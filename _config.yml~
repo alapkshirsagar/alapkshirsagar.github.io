@@ -18,7 +18,7 @@ author:
 #  url:            https://twitter.com/mdo
 
 paginate:         5
-plugins:           [jekyll-paginate, jekyll-gist, jekyll-seo-tag]
+gems:           [jekyll-paginate, jekyll-gist, jekyll-seo-tag]
 # Custom vars
 version:          1.1.0
 
