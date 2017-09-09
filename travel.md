@@ -9,7 +9,9 @@ title: Travel Blog
 </h2>
 Posted on: 21st January 2017
 </center>
-
+<table>
+<tr>
+<td width = "90%">
 <ul class="slides">
   <input type="radio" name="radio-btn" id="img-1" checked />
   <li class="slide-container">
@@ -74,7 +76,9 @@ Posted on: 21st January 2017
     <label for="img-5" class="nav-dot" id="img-dot-5"></label>
   </li>
 </ul>
-
+</td>
+</tr>
+</table>
 <br><br>
 
 
