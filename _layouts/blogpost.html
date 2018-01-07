@@ -11,7 +11,7 @@
       {% if page.comments %}
       <center>
         <h2 class="page-title">{{ page.title }}</h1>
-        <em> Posted on: {{ page.date }} :: Photo Credits: {{ page.pc }} :: <a href="{{ page.url }}#disqus_thread"></a> </em>
+        <em> {% if page.date %} Posted on: {{ page.date }} :: {% endif %} Photo Credits: {{ page.pc }} :: <a href="{{ page.url }}#disqus_thread"></a> </em>
 
       </center>
       <br>

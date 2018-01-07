@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Travel Blog
+title: Travelogue
 ---
 ## Recent Article
 <center>
