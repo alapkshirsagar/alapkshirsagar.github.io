@@ -2,14 +2,11 @@
 layout: page
 title: Travelogue
 ---
-## Recent Article
-<center>
-<h2>
-<a href="/travel/fl">  Miami, USA </a>
-</h2>
-Posted on: 25 November 2017
-</center>
-<table>
+## Countries visited: 17
+## Continents: 4
+<br>
+
+<!-- <table>
 <tr>
 <td width = "100%">
 <ul class="slides">
@@ -78,14 +75,137 @@ Posted on: 25 November 2017
 </ul>
 </td>
 </tr>
-</table>
-<br><br>
+</table> -->
 
-## Previous Articles
+
+<!--                       MIAMI               -->
+<div id="slider" >
+<a href="/travel/fl">
+<figure>
+<img src="/travel/namerica/usa/fl/24.jpg" alt>
+<img src="/travel/namerica/usa/fl/31.jpg" alt>
+<img src="/travel/namerica/usa/fl/4.jpg" alt>
+<img src="/travel/namerica/usa/fl/3.jpg" alt>
+<img src="/travel/namerica/usa/fl/24.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/fl">
+  <i>More than Beaches</i>: Miami, USA
+  </a>
+</h3>
+Posted on: 25 November 2017
+</center>
+</div>
+
+<br><br><br>
+
+<!--                       WEST VIRGINIA               -->
+<div id="slider" >
+<a href="/travel/wv">
+<figure>
+<img src="/travel/namerica/usa/wv/32.jpg" alt>
+<img src="/travel/namerica/usa/wv/9.jpg" alt>
+<img src="/travel/namerica/usa/wv/28.jpg" alt>
+<img src="/travel/namerica/usa/wv/24.jpg" alt>
+<img src="/travel/namerica/usa/wv/32.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/wv">
+  <i>It's Falling</i>: Road Trip in West Virginia, USA
+  </a>
+</h3>
+Posted on: 15 October 2017
+</center>
+</div>
+
+<br><br><br>
+
+
+<!--                       ISTANBUL             
+
+<div id="slider" >
+<a href="/travel/istanbul">
+<figure>
+<img src="/travel/namerica/usa/wv/32.jpg" alt>
+<img src="/travel/namerica/usa/wv/9.jpg" alt>
+<img src="/travel/namerica/usa/wv/28.jpg" alt>
+<img src="/travel/namerica/usa/wv/24.jpg" alt>
+<img src="/travel/namerica/usa/wv/32.jpg" alt>
+</figure>
+</a>
+</div>
+<center>
+<h3>
+<a href="/travel/fl">
+  <i>It's Falling</i>: Road Trip in West Virginia, USA
+  </a>
+</h3>
+Posted on: 15 October 2017
+</center>
+<br><br><br>
+  -->
+
+
+  <!--                       ICELAND                -->
+  <div id="slider" >
+  <a href="/travel/iceland">
+  <figure>
+  <img src="/travel/europe/iceland/photos/9.jpg" alt>
+  <img src="/travel/europe/iceland/photos/17.jpg" alt>
+  <img src="/travel/europe/iceland/photos/29.jpg" alt>
+  <img src="/travel/europe/iceland/photos/40.jpg" alt>
+  <img src="/travel/europe/iceland/photos/9.jpg" alt>
+  </figure>
+  </a>
+  <center>
+  <h3>
+  <a href="/travel/iceland">
+    <i>Icelandic Extravaganza</i>: Road Trip in Iceland
+    </a>
+  </h3>
+  Posted on: 21 January 2017
+  </center>
+  </div>
+
+  <br><br><br>
+
+
+  <!--                       SPAIN                -->
+  <div id="slider" >
+  <a href="/travel/spain">
+  <figure>
+  <img src="/travel/europe/spain/photos/S (52).jpg" alt>
+  <img src="/travel/europe/spain/photos/S (62).jpg" alt>
+  <img src="/travel/europe/spain/photos/S (46).jpg" alt>
+  <img src="/travel/europe/spain/photos/S (66).jpg" alt>
+  <img src="/travel/europe/spain/photos/S (52).jpg" alt>
+  </figure>
+  </a>
+  <center>
+  <h3>
+  <a href="/travel/spain">
+    <i>Spanish Delight</i>: Road Trip in Spain
+    </a>
+  </h3>
+  Posted on: 17 January 2017
+  </center>
+  </div>
+
+  <br><br><br>
+
+
+
+
+
+<!-- ## Previous Articles
 ###  <a href="/travel/wv">  *Its Falling*: Road Trip in West Virginia, USA </a> Posted on: 15 October 2017
 ###  <a href="/travel/istanbul">  *Turkish Layover*: Three Magical Days in Istanbul, Turkey </a> Posted on: 20 August 2017
 ###  <a href="/travel/iceland">  *Icelandic Extravaganza*: Road Trip in Iceland </a> Posted on: 21 January 2017
-###  <a href="/travel/spain">  *Spanish Delight*: Road Trip in Spain </a> Posted on: 17 January 2017
+###  <a href="/travel/spain">  *Spanish Delight*: Road Trip in Spain </a> Posted on: 17 January 2017 -->
 
 
 <!-- <center>
@@ -245,9 +365,36 @@ Posted on: 21st January 2017
 </table>
 <br><br>
 -->
+
+<!--                       FME                -->
+<div id="slider" >
+<a href="/travel/drie">
+<figure>
+<img src="/travel/europe/fme/26.jpg" alt>
+<img src="/travel/europe/fme/14.jpg" alt>
+<img src="/travel/europe/fme/15.jpg" alt>
+<img src="/travel/europe/fme/36.jpg" alt>
+<img src="/travel/europe/fme/26.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/drie">
+  <i>Weekend Excursions</i>: First Month in Europe
+  </a>
+</h3>
+Posted on: 5 October 2016
+</center>
+</div>
+
+<br><br><br>
+
+
 <br> <br>
 
-## Country count: 15
+
+
+# Explore Articles by Country:
 
 ## Europe
 
@@ -318,6 +465,20 @@ Posted on: 21st January 2017
 <td width = "30%" align="center">
 <a href="/travel/turkey">Turkey</a>
 </td>
+
+</tr>
+
+<tr>
+<td width="30%" align="center">
+<a href="/travel/sweden"> Sweden </a>
+
+</td>
+
+<td width="30%" align="center">
+<a href="/travel/norway">Norway</a>
+
+</td>
+
 
 </tr>
 
