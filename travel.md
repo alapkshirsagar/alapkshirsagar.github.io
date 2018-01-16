@@ -365,6 +365,30 @@ Posted on: 21st January 2017
 </table>
 <br><br>
 -->
+<!--                       Prague                -->
+<div id="slider" >
+<a href="/travel/prague">
+<figure>
+<img src="/travel/europe/czk/prague/19.jpg" alt>
+<img src="/travel/europe/czk/prague/03.jpg" alt>
+<img src="/travel/europe/czk/prague/12.jpg" alt>
+<img src="/travel/europe/czk/prague/14.jpg" alt>
+<img src="/travel/europe/czk/prague/19.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/prague">
+  Halloween in Prague (Czech Republic)
+  </a>
+</h3>
+Posted on: 8 November 2016
+</center>
+</div>
+
+<br><br><br>
+
+
 
 <!--                       Brussels-Bruges                -->
 <div id="slider" >
