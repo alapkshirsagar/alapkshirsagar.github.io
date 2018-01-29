@@ -6,6 +6,20 @@ title: Travelogue
 ## Continents: 4
 <br>
 
+<!--
+<div id="slider" >
+<figure>
+<a href="/travel/iceland"> <img src="/travel/best/1.jpg" alt> </a>
+<a href="/travel/spain"> <img src="/travel/best/S (51).jpg" alt> </a>
+<a href="/travel/wv"> <img src="/travel/best/32.jpg" alt> </a>
+<a href="/travel/fl"> <img src="/travel/best/25.jpg" alt> </a>
+<a href="/travel/iceland"> <img src="/travel/best/1.jpg" alt> </a>
+</figure>
+</div>
+
+<br><br><br> -->
+
+## Posts
 <!-- <table>
 <tr>
 <td width = "100%">
@@ -125,29 +139,29 @@ Posted on: 15 October 2017
 <br><br><br>
 
 
-<!--                       ISTANBUL             
+<!--                       ISTANBUL        -->       
 
 <div id="slider" >
 <a href="/travel/istanbul">
 <figure>
-<img src="/travel/namerica/usa/wv/32.jpg" alt>
-<img src="/travel/namerica/usa/wv/9.jpg" alt>
-<img src="/travel/namerica/usa/wv/28.jpg" alt>
-<img src="/travel/namerica/usa/wv/24.jpg" alt>
-<img src="/travel/namerica/usa/wv/32.jpg" alt>
+<img src="/travel/europe/istanbul/25.jpg" alt>
+<img src="/travel/europe/istanbul/16.jpg" alt>
+<img src="/travel/europe/istanbul/18.jpg" alt>
+<img src="/travel/europe/istanbul/06.jpg" alt>
+<img src="/travel/europe/istanbul/25.jpg" alt>
 </figure>
 </a>
 </div>
 <center>
 <h3>
 <a href="/travel/fl">
-  <i>It's Falling</i>: Road Trip in West Virginia, USA
+  <i>Turkish Delight</i>: Layover in Istanbul, Turkey
   </a>
 </h3>
-Posted on: 15 October 2017
+Posted on: 25 August 2017
 </center>
 <br><br><br>
-  -->
+
 
 
   <!--                       ICELAND                -->
