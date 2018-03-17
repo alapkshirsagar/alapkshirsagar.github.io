@@ -379,6 +379,31 @@ Posted on: 21st January 2017
 </table>
 <br><br>
 -->
+
+<!--                       VBB                -->
+<div id="slider" >
+<a href="/travel/vienna">
+<figure>
+<img src="/travel/europe/vbb/03.jpg" alt>
+<img src="/travel/europe/vbb/16.jpg" alt>
+<img src="/travel/europe/vbb/19.jpg" alt>
+<img src="/travel/europe/vbb/21.jpg" alt>
+<img src="/travel/europe/vbb/03.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/vienna">
+  Three Capital Trip - Vienna (Austria), Budapest (Hungary), Bratislava (Slovakia)
+</a>
+</h3>
+Posted on: 26 November 2016
+</center>
+</div>
+
+<br><br><br>
+
+
 <!--                       Prague                -->
 <div id="slider" >
 <a href="/travel/prague">
@@ -487,7 +512,7 @@ Posted on: 5 October 2016
 <table>
 <tr>
 <td width="30%" align="center">
-<a href="/travel/vbb">Austria</a>
+<a href="/travel/austria">Austria</a>
 </td>
 
 <td width="30%" align="center">
@@ -497,7 +522,7 @@ Posted on: 5 October 2016
 
 
 <td width="30%" align="center">
-<a href="/travel/vbb">Hungary</a>
+<a href="/travel/hungary">Hungary</a>
 </td>
 
 </tr>
@@ -512,7 +537,7 @@ Posted on: 5 October 2016
 </td>
 
 <td width="30%" align="center">
-<a href="/travel/vbb">Slovakia</a>
+<a href="/travel/slovakia">Slovakia</a>
 
 </td>
 
