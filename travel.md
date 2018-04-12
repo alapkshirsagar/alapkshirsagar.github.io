@@ -91,6 +91,30 @@ title: Travelogue
 </tr>
 </table> -->
 
+<!--                       DC2018               -->
+<div id="slider" >
+<a href="/travel/dc18">
+<figure>
+<img src="/travel/namerica/usa/dc18/21.jpg" alt>
+<img src="/travel/namerica/usa/dc18/08.jpg" alt>
+<img src="/travel/namerica/usa/dc18/13.jpg" alt>
+<img src="/travel/namerica/usa/dc18/01.jpg" alt>
+<img src="/travel/namerica/usa/dc18/21.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/dc18">
+  <i> Most 'Powerful' City in the World</i>: Washington DC, USA 
+</a>
+</h3>
+Posted on: 5 March 2018
+</center>
+</div>
+
+<br><br><br>
+
+
 
 <!--                       MIAMI               -->
 <div id="slider" >
