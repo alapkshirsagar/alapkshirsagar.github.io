@@ -2,7 +2,10 @@
 layout: page
 title: Travelogue
 ---
-## Countries visited: 17
+<i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything :D" </i>
+
+
+## Countries visited: 18
 ## Continents: 4
 <br>
 
@@ -91,6 +94,32 @@ title: Travelogue
 </tr>
 </table> -->
 
+<!--                       Toronto               -->
+<div id="slider" >
+<a href="/travel/toronto">
+<figure>
+<img src="/travel/namerica/canada/toronto/05.jpg" alt>
+<img src="/travel/namerica/canada/toronto/12.jpg" alt>
+<img src="/travel/namerica/canada/toronto/16.jpg" alt>
+<img src="/travel/namerica/canada/toronto/20.jpg" alt>
+<img src="/travel/namerica/canada/toronto/05.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/dc18">
+  <i> Spring Break Trip - Toronto, Canada</i>
+</a>
+</h3>
+Posted on: 18 July 2018
+</center>
+</div>
+
+<br><br><br>
+
+
+
+
 <!--                       DC2018               -->
 <div id="slider" >
 <a href="/travel/dc18">
@@ -105,7 +134,7 @@ title: Travelogue
 <center>
 <h3>
 <a href="/travel/dc18">
-  <i> Most 'Powerful' City in the World</i>: Washington DC, USA 
+  <i> Most 'Powerful' City in the World</i>: Washington DC, USA
 </a>
 </h3>
 Posted on: 5 March 2018
@@ -627,7 +656,8 @@ Posted on: 5 October 2016
 <a href="/travel/usa"> United States of America</a>
 
 </td>
-<td width = "30%">
+<td width = "30%" align="center">
+<a href="/travel/toronto"> Canada </a>
 </td>
 <td width = "30%">
 </td>
