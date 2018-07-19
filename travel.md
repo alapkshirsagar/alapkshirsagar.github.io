@@ -107,7 +107,7 @@ title: Travelogue
 </a>
 <center>
 <h3>
-<a href="/travel/dc18">
+<a href="/travel/toronto">
   <i> Spring Break Trip - Toronto, Canada</i>
 </a>
 </h3>
