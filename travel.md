@@ -143,6 +143,30 @@ Posted on: 5 March 2018
 
 <br><br><br>
 
+<!--                       Scandinavia               -->
+<div id="slider" >
+<a href="/travel/sweden">
+<figure>
+<img src="/travel/europe/norway/14.jpg" alt>
+<img src="/travel/europe/norway/22.jpg" alt>
+<img src="/travel/europe/norway/53.jpg" alt>
+<img src="/travel/europe/norway/04.jpg" alt>
+<img src="/travel/europe/norway/14.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/sweden">
+  <i> Scan-di-navia </i>: Norway and Sweden
+</a>
+</h3>
+Posted on: 20 February 2018
+</center>
+</div>
+
+<br><br><br>
+
+
 
 
 <!--                       MIAMI               -->
