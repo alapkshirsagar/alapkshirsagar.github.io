@@ -94,6 +94,32 @@ title: Travelogue
 </tr>
 </table> -->
 
+
+<!--                       Kerala               -->
+<div id="slider" >
+<a href="/travel/kerala">
+<figure>
+<img src="/travel/asia/india/kerala/07.jpg" alt>
+<img src="/travel/asia/india/kerala/06.jpg" alt>
+<img src="/travel/asia/india/kerala/24.jpg" alt>
+<img src="/travel/asia/india/kerala/52.jpg" alt>
+<img src="/travel/asia/india/kerala/07.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/kerala">
+  <i> God's Own Country - Kerala </i>
+</a>
+</h3>
+Posted on: 14 August 2018
+</center>
+</div>
+
+<br><br><br>
+
+
+
 <!--                       Toronto               -->
 <div id="slider" >
 <a href="/travel/toronto">
