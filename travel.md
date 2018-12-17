@@ -94,6 +94,29 @@ title: Travelogue
 </tr>
 </table> -->
 
+<!--                       CountyFair               -->
+<div id="slider" >
+<a href="/travel/countyfair">
+<figure>
+<img src="/travel/namerica/usa/county_fair/05.jpg" alt>
+<img src="/travel/namerica/usa/county_fair/06.jpg" alt>
+<img src="/travel/namerica/usa/county_fair/12.jpg" alt>
+<img src="/travel/namerica/usa/county_fair/19.jpg" alt>
+<img src="/travel/namerica/usa/county_fair/05.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/countyfair">
+  <i> Cycling Trip to a County Fair - Whitney Point, New York </i>
+</a>
+</h3>
+Posted on: 18 September 2018
+</center>
+</div>
+
+<br><br><br>
+
 
 <!--                       Kerala               -->
 <div id="slider" >
