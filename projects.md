@@ -6,10 +6,27 @@ title: Projects
 <table>
 <tr>
 <td width="30%" align="center">
+<img src="/project_images/roma.jpeg" style="width:100%;">
+<a href="/projects/roma"> Robotic Modeling Assistant </a>
+<br> <em>Cornell University</em>
+</td>
+
+
+<td width="30%" align="center">
+<img src="/project_images/ebrd-project.jpg" style="width:100%;">
+<a href="/projects/ebrd"> Decision Making with a Robot </a>
+<br> <em>Cornell University</em>
+</td>
+
+
+<td width="30%" align="center">
 <img src="/project_images/hri_2017.jpg" style="width:100%;">
 <a href="/projects/hri"> Human-Robot Joint Task Execution with Non-verbal Communication </a>
 <br> <em>Cornell University</em>
 </td>
+
+</tr>
+<tr>
 
 <td width="30%" align="center">
 <img src="/project_images/ur5.jpg" style="width:80%;">
@@ -23,14 +40,15 @@ title: Projects
 <br><em>UC Berkeley</em>
 </td>
 
-</tr>
-<tr>
 
 <td width="30%" align="center">
 <img src="/project_images/rockerbogie.jpg" style="width:100%;">
 <a href="/projects/BTP">Optimization and Simulation of Planetary Rover's Mobility System</a>
 <br><em>IIT Bombay</em>
 </td>
+
+</tr>
+<tr>
 
 <td width="30%" align="center">
 <img src="/project_images/msi.jpg" style="width:80%;">
@@ -43,8 +61,7 @@ title: Projects
 <a href="/projects/Parinat"> <em>Parinat</em>: IIT Bombay's Small Humanoid Robot Project </a>
 <br><em>IIT Bombay</em>
 </td>
-</tr>
-<tr>
+
 <td width="30%" align="center">
 <img src="/project_images/bkb1.jpg" style="width:80%;">
 <a href="/projects/BKB">Book Keeping Robot for Library</a>
