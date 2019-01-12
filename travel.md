@@ -5,7 +5,7 @@ title: Travelogue
 <i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything :D" </i>
 
 
-## Countries visited: 18
+## Countries visited: 19
 ## Continents: 4
 <br>
 
@@ -93,6 +93,30 @@ title: Travelogue
 </td>
 </tr>
 </table> -->
+
+<!--                       HongKong               -->
+<div id="slider" >
+<a href="/travel/hongkong">
+<figure>
+<img src="/travel/asia/hongkong/15.jpg" alt>
+<img src="/travel/asia/hongkong/20.jpg" alt>
+<img src="/travel/asia/hongkong/04.jpg" alt>
+<img src="/travel/asia/hongkong/12.jpg" alt>
+<img src="/travel/asia/hongkong/15.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/hongkong">
+  <i> 10hrs in Hong Kong - A Layover Trip to Asia's World City </i>
+</a>
+</h3>
+Posted on: 12 January 2019
+</center>
+</div>
+
+<br><br><br>
+
 
 <!--                       CountyFair               -->
 <div id="slider" >
@@ -280,7 +304,7 @@ Posted on: 15 October 2017
 </div>
 <center>
 <h3>
-<a href="/travel/fl">
+<a href="/travel/istanbul">
   <i>Turkish Delight</i>: Layover in Istanbul, Turkey
   </a>
 </h3>
@@ -758,7 +782,9 @@ Posted on: 5 October 2016
 <a href="/travel/india">India</a>
 
 </td>
-<td width = "30%">
+<td width = "30%" align="center">
+<a href="/travel/hongkong">Hong Kong</a>
+
 </td>
 <td width = "30%">
 </td>
