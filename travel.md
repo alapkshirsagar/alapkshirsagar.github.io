@@ -117,6 +117,30 @@ Posted on: 12 January 2019
 
 <br><br><br>
 
+<!--                       Michigan               -->
+<div id="slider" >
+<a href="/travel/michigan">
+<figure>
+<img src="/travel/namerica/usa/michigan/12.jpg" alt>
+<img src="/travel/namerica/usa/michigan/23.jpg" alt>
+<img src="/travel/namerica/usa/michigan/05.jpg" alt>
+<img src="/travel/namerica/usa/michigan/20.jpg" alt>
+<img src="/travel/namerica/usa/michigan/12.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/michigan">
+  <i> Fall Colors and Great Lakes - Road trip in Michigan, USA </i>
+</a>
+</h3>
+Posted on: 20 October 2018
+</center>
+</div>
+
+<br><br><br>
+
+
 
 <!--                       CountyFair               -->
 <div id="slider" >
