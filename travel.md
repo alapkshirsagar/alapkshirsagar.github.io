@@ -166,6 +166,30 @@ Posted on: 18 September 2018
 <br><br><br>
 
 
+<!--                       Atlanta2018               -->
+<div id="slider" >
+<a href="/travel/atlanta2018">
+<figure>
+<img src="/travel/namerica/usa/atlanta2018/15.jpg" alt>
+<img src="/travel/namerica/usa/atlanta2018/12.jpg" alt>
+<img src="/travel/namerica/usa/atlanta2018/11.jpg" alt>
+<img src="/travel/namerica/usa/atlanta2018/05.jpg" alt>
+<img src="/travel/namerica/usa/atlanta2018/15.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/atlanta2018">
+  <i> Two Days in Atlanta, Capital of Georgia-USA </i>
+</a>
+</h3>
+Posted on: 10 July 2018
+</center>
+</div>
+
+<br><br><br>
+
+
 <!--                       Kerala               -->
 <div id="slider" >
 <a href="/travel/kerala">
@@ -183,7 +207,7 @@ Posted on: 18 September 2018
   <i> God's Own Country - Kerala </i>
 </a>
 </h3>
-Posted on: 14 August 2018
+Posted on: 14 June 2018
 </center>
 </div>
 
@@ -208,7 +232,7 @@ Posted on: 14 August 2018
   <i> Spring Break Trip - Toronto, Canada</i>
 </a>
 </h3>
-Posted on: 18 July 2018
+Posted on: 18 April 2018
 </center>
 </div>
 
