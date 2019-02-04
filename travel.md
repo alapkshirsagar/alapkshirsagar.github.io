@@ -699,6 +699,29 @@ Posted on: 5 October 2016
 <br><br><br>
 
 
+<!--                       Adelaide                -->
+<div id="slider" >
+<a href="/travel/adelaide">
+<figure>
+<img src="/travel/australia/adelaide/18.jpg" alt>
+<img src="/travel/australia/adelaide/25.jpg" alt>
+<img src="/travel/australia/adelaide/21.jpg" alt>
+<img src="/travel/australia/adelaide/10.jpg" alt>
+<img src="/travel/australia/adelaide/18.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/adelaide">
+  <i>Expedition Down Under</i>: Three Weeks in Australia
+  </a>
+</h3>
+Posted on: 2014
+</center>
+</div>
+
+<br><br><br>
+
 <br> <br>
 
 
