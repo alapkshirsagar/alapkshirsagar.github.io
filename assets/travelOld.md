@@ -1,10 +1,13 @@
 ---
-layout: page
-title: Travelogue
+layout: null
+title: null
 ---
-<i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything :D" </i>
+<i> Why? : Practice writing </i>
 
 
+<i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything!" </i>
+
+<i> Goal: Visit all countries in the world </i>
 ## Countries visited: 19
 ## Continents: 4
 <br>

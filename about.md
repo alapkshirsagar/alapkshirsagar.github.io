@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 <p>
-Inspiration:<em> Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work. - A.P.J. Abdul Kalam</em>
+<!-- Inspiration:<em> Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work. - A.P.J. Abdul Kalam</em> -->
 <br>
 Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </p>
