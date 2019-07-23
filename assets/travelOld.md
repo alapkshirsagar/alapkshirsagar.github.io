@@ -1,17 +1,17 @@
 ---
-layout: null
+layout: default
 title: null
 ---
 <i> Why? : Practice writing </i>
 
 
-<i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything!" </i>
+<!-- <i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything!" </i>
 
 <i> Goal: Visit all countries in the world </i>
 ## Countries visited: 19
 ## Continents: 4
 <br>
-
+-->
 <!--
 <div id="slider" >
 <figure>
@@ -96,6 +96,29 @@ title: null
 </td>
 </tr>
 </table> -->
+<!--                       South Korea               -->
+<div id="slider" >
+<a href="/travel/korea">
+<figure>
+<img src="/travel/asia/hongkong/15.jpg" alt>
+<img src="/travel/asia/hongkong/20.jpg" alt>
+<img src="/travel/asia/hongkong/04.jpg" alt>
+<img src="/travel/asia/hongkong/12.jpg" alt>
+<img src="/travel/asia/hongkong/15.jpg" alt>
+</figure>
+</a>
+<center>
+<h3>
+<a href="/travel/korea">
+  <i> A week in Korea </i>
+</a>
+</h3>
+Posted on: 12 April 2019
+</center>
+</div>
+
+<br><br><br>
+
 
 <!--                       HongKong               -->
 <div id="slider" >

@@ -95,7 +95,9 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 
 
 ## Publications/Presentations
-* <b>A. Kshirsagar</b>, B. Dreyfuss, G. Ishai, O. Heffetz, G. Hoffman, "Monetary-incentive competition between Humand and Robots: Experimental Results", ACM/IEEE  International  Conference  on  Human-Robot Interaction (HRI), Daegu, South Korea, 11-14 March 2019 (full paper accepted)
+* <b>A. Kshirsagar</b>, H. Kress-Gazit, and G. Hoffman, "Specifying and Synthesizing Human-Robot Handovers", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, 4-8 November 2019 (full paper accepted)
+
+* <b>A. Kshirsagar</b>, B. Dreyfuss, G. Ishai, O. Heffetz, G. Hoffman, "Monetary-incentive competition between Humand and Robots: Experimental Results", ACM/IEEE  International  Conference  on  Human-Robot Interaction (HRI), Daegu, South Korea, 11-14 March 2019
 
 * <b>A. Kshirsagar</b>, A. Guha, “Design optimization of rocker bogie system and development of look-up table for reconfigurable wheels for a planetary rover”, International Journal of Vehicle Structures and Systems, 8.2:58-66, 2016
 
