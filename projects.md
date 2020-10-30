@@ -7,6 +7,14 @@ title: Projects
 <tr>
 <td width="30%" align="center">
 <br>
+<img src="/assets/project-images/handover_gaze_sketch.png" style="width:80%;">
+<a href="/projects/2019-06-GazeHandovers"> Robot Gaze Behaviors in Human-Robot Handovers </a>
+<br> <em>Cornell University</em>
+</td>
+
+
+<td width="30%" align="center">
+<br>
 <img src="/assets/project-images/hr_handover_alap_1.png" style="width:80%;">
 <a href="/projects/2018-08-SynthesizingHandovers"> Specifying and Synthesizing Human-Robot Object Handovers </a>
 <br> <em>Cornell University</em>
@@ -20,6 +28,9 @@ title: Projects
 <br> <em>Cornell University</em>
 </td>
 
+</tr>
+<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/roma.jpeg" style="width:80%;">
@@ -27,8 +38,7 @@ title: Projects
 <br> <em>Cornell University</em>
 </td>
 
-</tr>
-<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/hri_2017_b.png" style="width:80%;">
@@ -43,6 +53,9 @@ title: Projects
 <br> <em>RWTH Aachen</em>
 </td>
 
+</tr>
+<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/LRmate200iD.jpg"  style="width:80%;">
@@ -50,16 +63,13 @@ title: Projects
 <br><em>UC Berkeley</em>
 </td>
 
-</tr>
-<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/rockerbogie.png" style="width:80%;">
 <a href="/projects/2013-08-BTP">Optimization and Simulation of Planetary Rover's Mobility System</a>
 <br><em>IIT Bombay</em>
 </td>
-
-
 
 <td width="30%" align="center">
 <br>
@@ -68,6 +78,9 @@ title: Projects
 <br> <em>IIT Bombay</em>
 </td>
 
+</tr>
+<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/parinat2.jpg" style="width:80%;">
@@ -75,9 +88,7 @@ title: Projects
 <br><em>IIT Bombay</em>
 </td>
 
-</tr>
 
-<tr>
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/bkb1.jpg" style="width:80%;">

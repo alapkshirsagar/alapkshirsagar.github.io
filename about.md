@@ -11,8 +11,13 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 <table>
 <tr>
   <td>PhD in Mechanical Engineering </td>
-  <td>Cornell University</td>
+  <td>Cornell University, USA</td>
   <td width="15%" align="center">August 2017 - <br> Ongoing </td>
+</tr>
+<tr>
+  <td>PhD Exchange Program </td>
+  <td>Ben-Gurion University of the Negev, Israel</td>
+  <td width="15%" align="center">October 2019 - <br> August 2020 </td>
 </tr>
  <tr>
    <td>Master of Technology in Mechanical Engineering <br>(Design Specialization) </td>
@@ -33,6 +38,10 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 
 ## Awards/Achievements
 <table>
+<tr>
+  <td>Research Academic Internship scholarship by ‘Israeli Council for Higher Education’ </td>
+  <td width="15%" align="center">2019</td>
+</tr>
  <tr>
    <td>IIT Master Sandwich scholarship by 'German Academic Exchange Service (DAAD)' </td>
    <td width="15%" align="center">2016</td>
@@ -95,7 +104,8 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 
 
 ## Publications/Presentations
-* <b>A. Kshirsagar</b>, H. Kress-Gazit, and G. Hoffman, "Specifying and Synthesizing Human-Robot Handovers", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, 4-8 November 2019 (full paper accepted)
+
+* <b>A. Kshirsagar</b>, M. Lim, S. Christian and G. Hoffman, "Robot Gaze Behaviors in Human-to-Robot Handovers", IEEE Robotics and Automation Letters 5(4):6552-6558, 2020
 
 * <b>A. Kshirsagar</b>, B. Dreyfuss, G. Ishai, O. Heffetz, G. Hoffman, "Monetary-incentive competition between Humand and Robots: Experimental Results", ACM/IEEE  International  Conference  on  Human-Robot Interaction (HRI), Daegu, South Korea, 11-14 March 2019
 
