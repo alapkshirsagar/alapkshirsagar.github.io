@@ -104,6 +104,7 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 
 
 ## Publications/Presentations
+* <b>A. Kshirsagar</b>, G. Hoffman and A. Biess "Evaluating Guided Policy Search for Human-Robot Handovers", IEEE Robotics and Automation Letters 6(2):3933-3940, 2021
 
 * <b>A. Kshirsagar</b>, M. Lim, S. Christian and G. Hoffman, "Robot Gaze Behaviors in Human-to-Robot Handovers", IEEE Robotics and Automation Letters 5(4):6552-6558, 2020
 

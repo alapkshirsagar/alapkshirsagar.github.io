@@ -7,6 +7,13 @@ title: Projects
 <tr>
 <td width="30%" align="center">
 <br>
+<img src="/assets/project-images/handover_gps.png" style="width:80%;">
+<a href="/projects/2019-10-HandoversGPS"> Reinforcement Learning for Human-Robot Handovers </a>
+<br> <em>Ben-Gurion University/Cornell University</em>
+</td>
+
+<td width="30%" align="center">
+<br>
 <img src="/assets/project-images/handover_gaze_sketch.png" style="width:80%;">
 <a href="/projects/2019-06-GazeHandovers"> Robot Gaze Behaviors in Human-Robot Handovers </a>
 <br> <em>Cornell University</em>
@@ -21,6 +28,9 @@ title: Projects
 </td>
 
 
+</tr>
+<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/ebrd-project.jpg" style="width:80%;">
@@ -28,8 +38,6 @@ title: Projects
 <br> <em>Cornell University</em>
 </td>
 
-</tr>
-<tr>
 
 <td width="30%" align="center">
 <br>
@@ -46,6 +54,9 @@ title: Projects
 <br> <em>Cornell University</em>
 </td>
 
+</tr>
+<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/ur5.jpg" style="width:80%;">
@@ -53,8 +64,6 @@ title: Projects
 <br> <em>RWTH Aachen</em>
 </td>
 
-</tr>
-<tr>
 
 <td width="30%" align="center">
 <br>
@@ -71,6 +80,9 @@ title: Projects
 <br><em>IIT Bombay</em>
 </td>
 
+</tr>
+<tr>
+
 <td width="30%" align="center">
 <br>
 <img src="/assets/project-images/msi.jpg" style="width:80%;">
@@ -78,8 +90,6 @@ title: Projects
 <br> <em>IIT Bombay</em>
 </td>
 
-</tr>
-<tr>
 
 <td width="30%" align="center">
 <br>
