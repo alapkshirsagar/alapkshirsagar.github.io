@@ -73,7 +73,7 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </table>
 
 
-## Research Experience
+<!-- ## Research Experience
 <table>
  <tr>
    <td>Master's Thesis, Institut für Getriebetechnik und Maschinendynamik, RWTH Aachen <br><em> Topic: iGPS based motion control of robotic manipulator using Robot Operating System (ROS) </em> </td>
@@ -100,30 +100,41 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
    <td>Student Investigator, Rural Technology Advancement Group, IIT Bombay<br><em> Topic: Design of Fabric Cutting Machine for Mat-making Handlooms </em></td>
    <td align="center">Jan 2012 - <br>Nov 2013 </td>
  </tr>
-</table>
+</table> -->
 
 
 ## Publications/Presentations
-* <b>A. Kshirsagar</b>, G. Hoffman and A. Biess "Evaluating Guided Policy Search for Human-Robot Handovers", IEEE Robotics and Automation Letters 6(2):3933-3940, 2021
+#### Book Chapters
+* G. Hoffman, <b>A. Kshirsagar</b> and M. Law. "Human-Robot Interaction Challenges in the Workplace." <i>The Psychology of Technology: Social Science Research in the Age of Big Data, edited by Sandra Matz </i>, APA, 2022 (in-press)
 
-* <b>A. Kshirsagar</b>, M. Lim, S. Christian and G. Hoffman, "Robot Gaze Behaviors in Human-to-Robot Handovers", IEEE Robotics and Automation Letters 5(4):6552-6558, 2020
+#### Journal Publications
+* T. Faibish*, <b>A. Kshirsagar*</b>, G. Hoffman and Y. Edan. "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers." <i>International Journal of Social Robotics</i>, 2022 (co-first author, in-press)
 
-* <b>A. Kshirsagar</b>, B. Dreyfuss, G. Ishai, O. Heffetz, G. Hoffman, "Monetary-incentive competition between Humand and Robots: Experimental Results", ACM/IEEE  International  Conference  on  Human-Robot Interaction (HRI), Daegu, South Korea, 11-14 March 2019
+* <b>A. Kshirsagar</b>, G. Hoffman and A. Biess. <a href ="https://ieeexplore.ieee.org/document/9381633"> "Evaluating Guided Policy Search for Human-Robot Handovers" </a> <i>IEEE Robotics and Automation Letters</i> 6(2):3933-3940, 2021
 
-* <b>A. Kshirsagar</b>, A. Guha, “Design optimization of rocker bogie system and development of look-up table for reconfigurable wheels for a planetary rover”, International Journal of Vehicle Structures and Systems, 8.2:58-66, 2016
+* <b>A. Kshirsagar</b>, M. Lim, S. Christian and G. Hoffman. <a href="https://ieeexplore.ieee.org/document/9165096"> "Robot Gaze Behaviors in Human-to-Robot Handovers" </a> <i>IEEE Robotics and Automation Letters</i> 5(4):6552-6558, 2020
 
-* <b>A. Kshirsagar</b>, R. Pant, K. Bodi, “Dynamic simulation of breakaway aerostat with emergency deflation valves”, 16 th AIAA Aviation Technology, Integration and Operations Conference, AIAA Aviation, Washington D.C., USA, 13-17 June 2016.
+* <b>A. Kshirsagar</b> and A. Guha. <a href="http://maftree.org/eja/index.php/ijvss/article/view/426"> “Design optimization of rocker bogie system and development of look-up table for reconfigurable wheels for a planetary rover” </a> <i>International Journal of Vehicle Structures and Systems</i>, 8.2:58-66, 2016
 
-* S. Loharkar, <b>A. Kshirsagar</b>, R.S. Pant, “Design and Fabrication of a portable semi-rigid airship”, Annual Technical Volume of Aerospace Engineering Division Board, Institution of Engineers (India), 2015-16
+* S. Loharkar, <b>A. Kshirsagar</b> and R.S. Pant. <a href="https://www.ieindia.org/webui/ajax/Downloads/WebUI_PDF/Technical_Volume_Pdf/ATV_ASDB.pdf#page=47"> "Design and Fabrication of a portable semi-rigid airship"</a> <i>Annual Technical Volume of Aerospace Engineering Division Board, Institution of Engineers (India)</i>, 2015-16
 
-* <b>A. Kshirsagar</b>, V. Sharma, R.S. Pant, “Design and Development of a Dismantable Semi Rigid Remotely Controlled Airship”, 10th International Airship Convention and Exhibition, Friedrichshafen, Germany, 16-18 April, 2015
+#### Conference Proceedings
+* <b>A. Kshirsagar</b>, H. Kress-Gazit and G. Hoffman. <a href="https://ieeexplore.ieee.org/document/8967709"> "Specifying and Synthesizing Human-Robot Handovers.”</a> <i>IEEE/RSJ International Conference on Intelligent Systems and Robots (IROS)</i>, Macau, 4-8 November 2019
 
-* A. Rajagopal, P. Bende, S. Yadav, R. Agarwal, A. Sathawane, <b>A. Kshirsagar</b>, M.C. Hemanth, N. Kumar, P. Gatkine, “Design, Modelling and Control of a 6 Degrees of Freedom Robotic Arm with specific applications in Planetary Exploration Missions”, 65th International Astronautical Congress, Toronto, Canada, 29 September-3 October, 2014
+* <b>A. Kshirsagar</b>, B. Dreyfuss, G. Ishai, O. Heffetz and G. Hoffman. <a href="https://ieeexplore.ieee.org/abstract/document/8673201"> "Monetary-incentive competition between Humand and Robots: Experimental Results"</a> <i> ACM/IEEE  International  Conference  on  Human-Robot Interaction (HRI)</i> Daegu, South Korea, 11-14 March 2019
 
-* <b>A. Kshirsagar</b>, D. Harursampath and B. R. Gupta, VAM applied to Dimensional Reduction of Non-linear Multifunctional Film Fabric Laminates, 12th International Conference of Numerical Analysis and Applied Mathematics, Rhodes, Greece, 22-28 September 2014
+* <b>A. Kshirsagar</b>, R. Pant and K. Bodi. <a> "Dynamic simulation of breakaway aerostat with emergency deflation valves" </a> <i>16th AIAA Aviation Technology, Integration and Operations Conference, AIAA Aviation</i>, Washington D.C., USA, 13-17 June 2016.
 
-* <b>A. Kshirsagar</b>, A. Tejwani, V. Singh, G. Bhat, N. Singh, A. Yadav, A. Berlia, K. Saboo, U. Patil, S. Prasad, “Mechatronic Design, Fabrication and Analysis of a Small-Size Humanoid Robot-“Parinat”, International Journal of Current Engineering and Technology, April 2014, 58-62
+* <b>A. Kshirsagar</b>, D. Harursampath and B. R. Gupta. <a href="https://aip.scitation.org/doi/abs/10.1063/1.4912587"> "VAM applied to Dimensional Reduction of Non-linear Multifunctional Film Fabric Laminates" </a> <i> 12th International Conference of Numerical Analysis and Applied Mathematics</i> Rhodes, Greece, 22-28 September 2014
 
+* <b>A. Kshirsagar</b>, A. Tejwani, V. Singh, G. Bhat, N. Singh, A. Yadav, A. Berlia, K. Saboo, U. Patil and S. Prasad, <a href="http://inpressco.com/special_edition/mechatronic-design-fabrication-and-analysis-of-a-small-size-humanoid-robot-parinat/"> "Mechatronic Design, Fabrication and Analysis of a Small-Size Humanoid Robot-“Parinat" </a> <i>International Conference on Design, Manufacturing and Mechatronics</i>, Pune, India, April 2014
+
+#### Workshops/Late-breaking Reports
+* <b>A. Kshirsagar</b>, H. Kress-Gazit and G. Hoffman. "Human-Robot Handovers with Signal Temporal Logic Specifications." <i>IEEE International Conference on Robot and Human Interactive Communication</i>, New Delhi, India, 14-18 October 2019 (Best Late Breaking Report Award)
+
+* <b>A. Kshirsagar</b>, V. Sharma and R.S. Pant, "Design and Development of a Dismantable Semi Rigid Remotely Controlled Airship", <i>10th International Airship Convention and Exhibition, Friedrichshafen</i>, Germany, 16-18 April, 2015
+
+* A. Rajagopal, P. Bende, S. Yadav, R. Agarwal, A. Sathawane, <b>A. Kshirsagar</b>, M.C. Hemanth, N. Kumar and P. Gatkine, "Design, Modelling and Control of a 6 Degrees of Freedom Robotic Arm with specific applications in Planetary Exploration Missions", <i>65th International Astronautical Congress</i>, Toronto, Canada, 29 September-3 October, 2014
 
 <!--
 <p class="message">
