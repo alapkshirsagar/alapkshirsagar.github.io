@@ -39,6 +39,10 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 ## Awards/Achievements
 <table>
 <tr>
+  <td>Postdoctoral Networking Tour in AI Fellowship by ‘German Academic Exchange Service (DAAD)’ </td>
+  <td width="15%" align="center">2022</td>
+</tr>
+<tr>
   <td>Research Academic Internship scholarship by ‘Israeli Council for Higher Education’ </td>
   <td width="15%" align="center">2019</td>
 </tr>
@@ -108,7 +112,7 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 * G. Hoffman, <b>A. Kshirsagar</b> and M. Law. "Human-Robot Interaction Challenges in the Workplace." <i>The Psychology of Technology: Social Science Research in the Age of Big Data, edited by Sandra Matz </i>, APA, 2022 (in-press)
 
 #### Journal Publications
-* T. Faibish*, <b>A. Kshirsagar*</b>, G. Hoffman and Y. Edan. "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers." <i>International Journal of Social Robotics</i>, 2022 (co-first author, in-press)
+* T. Faibish*, <b>A. Kshirsagar*</b>, G. Hoffman and Y. Edan. <a href = "https://link.springer.com/article/10.1007/s12369-021-00836-z"> "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers." </a> <i>International Journal of Social Robotics</i>, 2022 (co-first author)
 
 * <b>A. Kshirsagar</b>, G. Hoffman and A. Biess. <a href ="https://ieeexplore.ieee.org/document/9381633"> "Evaluating Guided Policy Search for Human-Robot Handovers" </a> <i>IEEE Robotics and Automation Letters</i> 6(2):3933-3940, 2021
 
@@ -130,6 +134,8 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 * <b>A. Kshirsagar</b>, A. Tejwani, V. Singh, G. Bhat, N. Singh, A. Yadav, A. Berlia, K. Saboo, U. Patil and S. Prasad, <a href="http://inpressco.com/special_edition/mechatronic-design-fabrication-and-analysis-of-a-small-size-humanoid-robot-parinat/"> "Mechatronic Design, Fabrication and Analysis of a Small-Size Humanoid Robot-“Parinat" </a> <i>International Conference on Design, Manufacturing and Mechatronics</i>, Pune, India, April 2014
 
 #### Workshops/Late-breaking Reports
+* <b>A. Kshirsagar</b> and G. Hoffman. <a href="https://dl.acm.org/doi/abs/10.5555/3523760.3523959"> "Empowering Robots for Object Handovers.” </a> <i>ACM/IEEE International Conference on Human-Robot Interaction (HRI) - Pioneers Workshop </i>, Online, 7 March 2022
+
 * <b>A. Kshirsagar</b>, H. Kress-Gazit and G. Hoffman. "Human-Robot Handovers with Signal Temporal Logic Specifications." <i>IEEE International Conference on Robot and Human Interactive Communication</i>, New Delhi, India, 14-18 October 2019 (Best Late Breaking Report Award)
 
 * <b>A. Kshirsagar</b>, V. Sharma and R.S. Pant, "Design and Development of a Dismantable Semi Rigid Remotely Controlled Airship", <i>10th International Airship Convention and Exhibition, Friedrichshafen</i>, Germany, 16-18 April, 2015

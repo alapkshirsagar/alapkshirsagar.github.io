@@ -16,7 +16,7 @@ title: Projects
 <br>
 <img src="/assets/project-images/handover_gaze_sketch.png" style="width:80%;">
 <a href="/projects/2019-06-GazeHandovers"> Robot Gaze Behaviors in Human-Robot Handovers </a>
-<br> <em>Cornell University</em>
+<br> <em>Cornell University/Ben-Gurion University</em>
 </td>
 
 
