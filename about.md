@@ -12,7 +12,7 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 <tr>
   <td>PhD in Mechanical Engineering </td>
   <td>Cornell University, USA</td>
-  <td width="15%" align="center">August 2017 - <br> Ongoing </td>
+  <td width="15%" align="center">August 2017 - <br> July 2022 </td>
 </tr>
 <tr>
   <td>PhD Exchange Program </td>
