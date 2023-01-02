@@ -1,0 +1,34 @@
+---
+layout: page
+title: "Projects"
+description: "Projects"
+group: navigation
+navorder: 3
+---
+{% include JB/setup %}
+
+<div class="bigspacer"></div> 
+
+{% assign robotics = site.categories.projects | where_exp: "project", "project.type contains 'robotics'" %}
+{% assign others = site.categories.projects | where_exp: "project", "project.type contains 'others'" %}
+
+<div class="bigspacer"></div>
+<h2>Robotics</h2>
+<table>
+{% assign memberindex = 0 %}
+{% for project in robotics %}  
+  {% include themes/oneproject.html %}
+{% endfor %}
+</table>
+
+
+<h2>Others</h2>
+<div class="bigspacer"></div>
+<table>
+{% assign memberindex = 0 %}
+{% for project in others %}  
+  {% include themes/oneproject.html %}
+{% endfor %}
+</table>
+
+<div class="bigspacer"></div>

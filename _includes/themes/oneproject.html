@@ -1,0 +1,23 @@
+
+{% assign memberindex = memberindex | plus: 1 %}
+{% assign colindex = memberindex | modulo: 3 %}
+
+{% if colindex == 1 %} <!-- opening of a new row -->
+<tr>
+{% endif %}
+<td style="width: 200px; background-color:#FFFFFF; text-align: center">
+    <a href="{{ project.url }}">
+        <center>
+            <img style ="width: 200px; margin: 0 0 0 0" src="/assets/project-images/{{ project.image }}">
+        </center>
+    </a>
+
+    <a href="{{ project.url }}">{{ project.shorttitle }}</a>
+            {% if project.award %}
+                    <i class="fa fa-trophy fa-fw"></i>
+            {% endif %} 
+            <p class="note">{{ project.location }}</p>
+</td>        
+{% if colindex == 0 %} <!-- closing a row -->
+</tr>
+{% endif %}

@@ -1,0 +1,51 @@
+---
+layout: page
+title: "Papers"
+description: "Research Papers"
+group: navigation
+navorder: 3
+---
+{% include JB/setup %}
+
+<!-- <div class="bigspacer"></div>  -->
+
+{% assign bookchapter = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'bookchapter'" %}
+{% assign journal = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'journal'" %}
+{% assign conference = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'conference'" %}
+{% assign workshop = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'workshop'" %}
+
+<div class="bigspacer"></div>
+<h2> Book Chapters </h2>
+{% assign memberindex = 0 %}
+{% for paper in bookchapter %}  
+  {% include themes/onepaper.html %}
+{% endfor %}
+
+
+
+<div class="bigspacer"></div>
+<h2> Journal Articles </h2>
+{% assign memberindex = 0 %}
+{% for paper in journal %}  
+  {% include themes/onepaper.html %}
+{% endfor %}
+
+
+
+<div class="bigspacer"></div>
+<h2> Conference Proceedings </h2>
+{% assign memberindex = 0 %}
+{% for paper in conference %}  
+  {% include themes/onepaper.html %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+<h2> Workshops/Late-Breaking Reports </h2>
+{% assign memberindex = 0 %}
+{% for paper in workshop %}  
+  {% include themes/onepaper.html %}
+{% endfor %}
+
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}

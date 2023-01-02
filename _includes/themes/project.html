@@ -1,0 +1,33 @@
+<!-- 
+Branched from Trevor Bedford's source, https://github.com/blab/blotter/blob/master/_layouts/paper.html
+with gratitude.
+-->
+
+<h2>
+    {{page.title}}
+</h2>
+<em> 
+	{{page.location}}
+	<br> 
+	{% if page.position %}
+	{{page.position}}
+	<br>
+	{% endif %}	
+	{% if page.advisor %}
+	Advisor: {{page.advisor}}
+	<br>
+	{% endif %}	
+
+	{{page.duration}}
+
+</em>
+<br>
+{% if page.collaborators %}
+Collaborators: {{page.collaborators}}
+{% endif %}	
+<div class="bigspacer"></div>
+<img align = "left";  style="width:30%; margin: 0 10px;"; src="/assets/project-images/{{page.image}}" >
+
+{{page.content}}
+
+<a href = "/projects"> Back to projects </a>
