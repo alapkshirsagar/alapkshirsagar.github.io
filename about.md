@@ -107,7 +107,7 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 </table> -->
 
 
-## Publications/Presentations
+<!-- ## Publications/Presentations
 #### Book Chapters
 * G. Hoffman, <b>A. Kshirsagar</b> and M. Law. "Human-Robot Interaction Challenges in the Workplace." <i>The Psychology of Technology: Social Science Research in the Age of Big Data, edited by Sandra Matz </i>, APA, 2022 (in-press)
 
@@ -140,7 +140,7 @@ Academic CV: <a href="/public/alap_kshirsagar_CV.pdf"> PDF </a>
 
 * <b>A. Kshirsagar</b>, V. Sharma and R.S. Pant, "Design and Development of a Dismantable Semi Rigid Remotely Controlled Airship", <i>10th International Airship Convention and Exhibition, Friedrichshafen</i>, Germany, 16-18 April, 2015
 
-* A. Rajagopal, P. Bende, S. Yadav, R. Agarwal, A. Sathawane, <b>A. Kshirsagar</b>, M.C. Hemanth, N. Kumar and P. Gatkine, "Design, Modelling and Control of a 6 Degrees of Freedom Robotic Arm with specific applications in Planetary Exploration Missions", <i>65th International Astronautical Congress</i>, Toronto, Canada, 29 September-3 October, 2014
+* A. Rajagopal, P. Bende, S. Yadav, R. Agarwal, A. Sathawane, <b>A. Kshirsagar</b>, M.C. Hemanth, N. Kumar and P. Gatkine, "Design, Modelling and Control of a 6 Degrees of Freedom Robotic Arm with specific applications in Planetary Exploration Missions", <i>65th International Astronautical Congress</i>, Toronto, Canada, 29 September-3 October, 2014 -->
 
 <!--
 <p class="message">

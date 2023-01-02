@@ -3,7 +3,7 @@ markdown:         Kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink: /:categories/:title 
 relative_permalinks: false
 
 # Setup
@@ -17,10 +17,46 @@ author:
   name:           Alap Kshirsagar
 #  url:            https://twitter.com/mdo
 
-paginate:         5
-plugins:           [jekyll-paginate, jekyll-gist, jekyll-seo-tag]
+plugins:           [jekyll-seo-tag]
 # Custom vars
-version:          1.2.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/alapkshirsagar
+
+
+ # Settings for sharing 
+  # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
+  # Add a tweet button    => provider : tweet
+  # Add a like button     => provider : like (you also need a facebook appid)
+  # Add a plus one button   => provider : plusone
+  # Add a HN button     => provider : hn
+  # Add them all (i.e. hn + tweet + plusone + like) => provider : all
+  # Set 'provider' to the sharing provider you want to use.
+  # Set 'provider' to false to turn sharing off globally.
+  #
+  sharing :
+   provider : tweet
+   twitter :
+     size :
+     via :
+     count :
+   facebook :
+     appid : 123
+     layout : button_count
+     font :
+     faces : false
+     width : 90
+   googleplus :
+     size : medium
+     width :
+     annotation : bubble
+   linkedin :
+     counter : right      
+
+defaults:
+  -
+    scope: 
+      path: "projects"
+    values:
+      excerpt_separator: <!--more-->

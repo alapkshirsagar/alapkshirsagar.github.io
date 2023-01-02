@@ -1,0 +1,157 @@
+<!-- 
+Branched from Trevor Bedford's source, https://github.com/blab/blotter/blob/master/_layouts/paper.html
+with gratitude.
+-->
+
+<div class="bigspacer"></div>
+
+
+<div class="titlebox">
+	<div class="smallhead">
+		{{ page.authors }} ({{ page.year }}).
+	</div>
+	<div class="title">
+		{{ page.title }}
+	</div>
+	<p />
+	<div class="smallhead">
+		{% if page.pubtype == 'conference' %}
+			In Proc. of the 
+		{% endif %}
+		<span class="journal">
+		{{ page.journal }}
+		</span>
+		{% if page.volume %}
+			{{ page.volume }}
+		{% endif %}
+		{% if page.issue %}
+		({{ page.issue }})
+		{% endif %}
+		{% if page.pages %}
+		: {{ page.pages }}
+		{% endif %}
+	</div>
+	{% if page.award %}
+	<p /><div class="smallhead"><strong>{{page.award}}</strong></div>
+	{% endif %}
+</div>
+
+<div class="bigspacer"></div>
+<table>
+	<tr>
+		<td style="background-color:#FFFFFF; width: 250px;">
+			{% if page.image %}
+			<img class="paper-image" src="/assets/paper-images/{{ page.image }}">
+			{% endif %}
+			{% if page.pdf or page.pdflink or page.fulltext %}
+			<div class="smallhead subtle">
+				Full text
+			</div>	
+			<div class="pad-left note">
+					{% if page.pdflink %}
+							<a href="{{ page.pdflink }}">Publication PDF</a>
+							<br/>
+					{% endif %}
+					{% if page.pdf %}
+							<a href="/assets/paper-pdfs/{{page.pdf }}">PDF</a>
+							<br/>
+					{% endif %}
+					{% if page.fulltext %}
+						<a href="{{ page.fulltext }}">Publication Link</a>
+					{% endif %}
+			</div>
+					<div class="bigspacer"></div>			
+		{% endif %}
+	
+		{% if page.supplement %}
+		<div class="smallhead subtle">
+			Supplementary Material
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<a href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
+		</div>
+		<div class="bigspacer"></div>			
+		{% endif %}
+	
+		{% if page.pmid %}
+		<div class="smallhead subtle">
+			Pubmed
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ page.pmid }}">{{ page.pmid }}</a>
+		</div>
+		<div class="bigspacer"></div>			
+		{% endif %}
+							
+		{% if page.doi %}
+		<div class="smallhead subtle">
+			DOI
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<a href="http://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a>
+		</div>
+		<div class="bigspacer"></div>			
+		{% endif %}
+				
+		{% if page.github %}
+		<div class="smallhead subtle">
+			Source code
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<a href="{{ page.github }}">{{ page.github | remove: 'http://' | remove: 'https://' }}</a>
+		</div>
+		{% endif %}
+	
+		{% if page.dryad_doi %}
+		<div class="smallhead subtle">
+			Data
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<a href="http://dx.doi.org/{{ page.dryad_doi }}">Dryad</a>
+		</div>
+		{% endif %}
+	
+		{% if page.figshare_doi %}
+		<div class="smallhead subtle">
+			Data
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<a href="http://doi.org/{{ page.figshare_doi }}">Figshare</a>
+		</div>
+		<div class="bigspacer"></div>			
+		{% endif %}
+	
+	
+		<div class="smallhead subtle">
+			Share
+		</div>
+		<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
+		<div class="pad-left note">
+			{% include JB/sharing-providers/twitter %}
+		</div>
+		</td>
+		<td style="background-color:#FFFFFF;">
+			{% if page.embargo %}
+			<div class="post">
+				In press...watch this space!
+			</div>
+			{% else %}
+			{{ content }}
+			</div>
+			{% endif %}
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+<div class="bigspacer"></div>
+
