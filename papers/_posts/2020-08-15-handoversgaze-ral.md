@@ -5,7 +5,7 @@ year: 2020
 shortref: "Kshirsagar et al. RAL 2020"
 shorttitle: "Robot Gaze Behaviors in Human-to-Robot Handovers"
 nickname: handoversgaze-ral
-journal: "IEEE Robotics and Automation Letters"
+journal: "IEEE Robotics and Automation Letters, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 volume: 5 
 issue: 4
 pages: 6552-6558

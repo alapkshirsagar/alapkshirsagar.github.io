@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Papers"
-description: "Research Papers"
+title: "Publications"
+description: "Research Publications"
 group: navigation
 navorder: 3
 ---
@@ -13,6 +13,7 @@ navorder: 3
 {% assign journal = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'journal'" %}
 {% assign conference = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'conference'" %}
 {% assign workshop = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'workshop'" %}
+{% assign thesis = site.categories.papers | where_exp: "paper", "paper.pubtype contains 'thesis'" %}
 
 <div class="bigspacer"></div>
 <h2> Book Chapters </h2>
@@ -43,6 +44,13 @@ navorder: 3
 <h2> Workshops/Late-Breaking Reports </h2>
 {% assign memberindex = 0 %}
 {% for paper in workshop %}  
+  {% include themes/onepaper.html %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+<h2> Theses </h2>
+{% assign memberindex = 0 %}
+{% for paper in thesis %}  
   {% include themes/onepaper.html %}
 {% endfor %}
 

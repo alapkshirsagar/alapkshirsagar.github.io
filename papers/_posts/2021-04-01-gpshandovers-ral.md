@@ -5,7 +5,7 @@ year: 2021
 shortref: "Kshirsagar et al. RAL 2021"
 shorttitle: "Evaluating Guided Policy Search for Human-Robot Handovers"
 nickname: gpshandovers-ral
-journal: "IEEE Robotics and Automation Letters"
+journal: "IEEE Robotics and Automation Letters, and IEEE International Conference on Robotics and Automation (ICRA)"
 volume: 6
 issue: 2
 pages: 3933-3940

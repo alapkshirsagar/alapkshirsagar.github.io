@@ -2,7 +2,7 @@
 layout: paper
 title: "Lessons Learned from Utilizing Guided Policy Search for Human-Robot Handovers with a Collaborative Robot"
 year: 2022
-shortref: "Kshirsagar et al. RAAL 2022"
+shortref: "Kshirsagar et al. RAAI 2022"
 shorttitle: 
 nickname: gpshandovers-raai
 journal: "International Conference on Robotics, Automation and Artificial Intelligence (RAAI)"
