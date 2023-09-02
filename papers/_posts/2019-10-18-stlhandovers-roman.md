@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Human-Robot Handovers with Signal Temporal Logic Specifications"
+project: SynthesizingHandovers
 year: 2019
 shortref: "Kshirsagar et al. ROMAN 2019"
 shorttitle: 

@@ -2,7 +2,7 @@
 layout: default
 title: null
 ---
-<i> Why? : Practice writing </i>
+<!-- <i> Why? : Practice writing </i> -->
 
 
 <!-- <i> "Travel inward to see the divinity within. Travel outward to see the divinity in everything!" </i>

@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Timing-Specified Controllers with Feedback for Human-Robot Handovers"
+project: TimingHandovers
 year: 2022
 shortref: "Kshirsagar et al. RO-MAN 2022"
 shorttitle: 

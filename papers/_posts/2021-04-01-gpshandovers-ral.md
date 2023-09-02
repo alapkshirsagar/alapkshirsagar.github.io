@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Evaluating Guided Policy Search for Human-Robot Handovers"
+project: HandoversGPS
 year: 2021
 shortref: "Kshirsagar et al. RAL 2021"
 shorttitle: "Evaluating Guided Policy Search for Human-Robot Handovers"
@@ -50,3 +51,7 @@ trained on static targets, but this results in inefficient, high-torque, traject
 results in worse worst-case performance. Initial results suggest
 that lower-dimensional state representations are beneficial for GPS
 performance in handovers.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y5w-gidfr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>

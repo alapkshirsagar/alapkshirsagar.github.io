@@ -1,6 +1,10 @@
 
 {% assign memberindex = memberindex | plus: 1 %}
-<p>
-<a href="{{ paper.url }}"> <img align="left", style="height:40px;   margin: 0 10px;", src="/assets/paper-images/{{ paper.image }}"> </a>   
-{{ paper.authors }}, <a href="{{ paper.url }}">{{ paper.title }}</a>, <i>{{ paper.journal }}</i>, {{paper.year}}
-</p>
+<div style="overflow: auto">
+<a href="{{ paper.url }}"> 
+    <img style="float: left; height: 80px; margin: 0 0 10px 0; border: 1px solid #000;", src="/assets/paper-images/{{ paper.image }}"> 
+</a>
+<div style="margin-left: 90px; margin-bottom: 20px; margin-top: -5px">
+    {{ paper.authors }}, <a href="{{ paper.url }}">{{ paper.title }}</a>, <i>{{ paper.journal }}</i>, {{paper.year}}
+</div>
+</div>

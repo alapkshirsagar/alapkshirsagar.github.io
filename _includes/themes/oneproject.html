@@ -5,11 +5,9 @@
 {% if colindex == 1 %} <!-- opening of a new row -->
 <tr>
 {% endif %}
-<td style="vertical-align: top; width: 200px; background-color:#FFFFFF; text-align: center">
+<td class="projects-column" style="background-color:#FFFFFF">
     <a href="{{ project.url }}">
-        <center>
-            <img style ="vertical-align: top; width: 200px; margin: 0 0 0 0" src="/assets/project-images/{{ project.image }}">
-        </center>
+            <img class="projects-image" src="/assets/project-images/{{ project.image }}">
     </a>
 
     <a href="{{ project.url }}">{{ project.shorttitle }}</a>

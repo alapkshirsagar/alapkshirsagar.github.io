@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Design and Fabrication of a Portable Semi-Rigid Airship"
+project: SemirigidAirship
 year: 2016
 shortref: "Loharkar, Kshirsagar & Pant IEI 2016"
 shorttitle: 

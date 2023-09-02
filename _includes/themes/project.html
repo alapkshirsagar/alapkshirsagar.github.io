@@ -2,32 +2,50 @@
 Branched from Trevor Bedford's source, https://github.com/blab/blotter/blob/master/_layouts/paper.html
 with gratitude.
 -->
-
-<h2>
-    {{page.title}}
-</h2>
-<em> 
-	{{page.location}}
-	<br> 
-	{% if page.position %}
-	{{page.position}}
-	<br>
-	{% endif %}	
-	{% if page.advisor %}
-	Advisor: {{page.advisor}}
-	<br>
-	{% endif %}	
-
-	{{page.duration}}
-
-</em>
-<br>
-{% if page.collaborators %}
-Collaborators: {{page.collaborators}}
-{% endif %}	
+<table>
+	<tr>
+		<td class="project-column" style="background-color:#FFFFFF;">
+			<img style="width:15em; margin: 0 0 0 0;"; src="/assets/project-images/{{page.image}}" >
+		</td>
+		<td class="project-column" style="background-color:#FFFFFF;">
+			<h2>
+				{{page.title}}
+			</h2>
+			<em> 
+				{{page.location}}
+				<br> 
+				{% if page.position %}
+				{{page.position}}
+				<br>
+				{% endif %}	
+				{% if page.advisor %}
+				Advisor: {{page.advisor}}
+				<br>
+				{% endif %}	
+			
+				{{page.duration}}
+				<br>
+				{% if page.collaborators %}
+				Collaborators: {{page.collaborators}}
+				{% endif %}	
+			</em>
+			<br>
+		</td>
+</tr>
+</table>
 <div class="bigspacer"></div>
-<img align = "left";  style="width:30%; margin: 0 10px;"; src="/assets/project-images/{{page.image}}" >
-
 {{page.content}}
 
-<a href = "/projects"> Back to projects </a>
+
+
+{% assign project_papers = site.categories.papers | where_exp: "paper", "paper.project contains page.nickname" %}
+{% if project_papers.size > 0 %}
+	<div class="bigspacer"></div>
+	<h3> Publications </h3>
+	{% assign memberindex = 0 %}
+	{% for paper in project_papers %}  
+	{% include themes/onepaper.html %}
+	{% endfor %}
+{% endif %}
+
+<!-- <a href = "/projects"> Back to projects </a> -->

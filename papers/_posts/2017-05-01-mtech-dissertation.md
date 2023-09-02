@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "iGPS Based Motion Control of a Robotic Manipulator using Robot Operating System"
+project: MTP
 year: 2017
 shortref: "Kshirsagar MTech 2017"
 shorttitle: 

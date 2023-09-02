@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Dynamic Simulation of Breakaway Aerostat with Emergency Deflation Valves"
+project: BreakawayAerostat
 year: 2016
 shortref: "Kshirsagar et al. AIAA 2016"
 shorttitle: 

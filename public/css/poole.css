@@ -253,6 +253,63 @@ tbody tr:nth-child(odd) th {
 }
 
 
+.projects-column {
+  display: block; /* Display each cell as a block on small screens */
+  margin: 5px 0; /* Add spacing between columns */
+  text-align: left;
+}
+
+@media (min-width: 48em) {
+  .projects-column {
+    display: table-cell;
+    padding: 10px;
+    text-align: center;
+    width: 33.33%;
+  }
+}
+
+.publication-column {
+  display: block; /* Display each cell as a block on small screens */
+  margin: 5px 0; /* Add spacing between columns */
+  text-align: left;
+}
+
+@media (min-width: 48em) {
+  .publication-column {
+    display: table-cell;
+    padding: 10px;
+    text-align: left;
+  }
+}
+
+.project-column {
+  display: block; /* Display each cell as a block on small screens */
+  margin: 0 0; /* Add spacing between columns */
+  text-align: left;
+}
+
+@media (min-width: 48em) {
+  .project-column {
+    display: table-cell;
+    padding: 10px;
+    text-align: left;
+  }
+}
+
+.projects-image {
+  width: 50%;
+}
+
+@media (min-width: 48em) {
+  .projects-image {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
 /*
  * Custom type
  *

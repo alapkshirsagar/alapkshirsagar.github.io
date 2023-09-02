@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Design Optimization of Rocker Bogie System and Development of Look-Up Table for Reconfigurable Wheels for a Planetary Rover"
+project: BTP
 year: 2016
 shortref: "Kshirsagar & Guha IJVSS 2016"
 shorttitle: 

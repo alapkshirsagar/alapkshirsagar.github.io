@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "VAM Applied to Dimensional Reduction of Nonlinear Multifunctional Film-fabric Laminates"
+project: VAM
 year: 2015
 shortref: "Kshirsagar et al. ICNAAM 2014"
 shorttitle: 

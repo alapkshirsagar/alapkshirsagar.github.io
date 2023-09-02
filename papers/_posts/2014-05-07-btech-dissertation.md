@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Design Optimization and Motion Dynamics of Mobility System for Mars Rover"
+project: BTP
 year: 2014
 shortref: "Kshirsagar BTech 2014"
 shorttitle: 

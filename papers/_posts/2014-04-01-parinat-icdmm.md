@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Mechatronic Design, Fabrication and Analysis of a Small-Size Humanoid Robot-Parinat"
+project: Parinat
 year: 2014
 shortref: "Kshirsagar et al. ICDMM 2014"
 shorttitle: 

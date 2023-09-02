@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Lessons Learned from Utilizing Guided Policy Search for Human-Robot Handovers with a Collaborative Robot"
+project: HandoversGPS
 year: 2022
 shortref: "Kshirsagar et al. RAAI 2022"
 shorttitle: 

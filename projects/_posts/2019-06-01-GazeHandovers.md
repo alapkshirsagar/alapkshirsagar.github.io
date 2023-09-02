@@ -2,6 +2,7 @@
 layout: project
 title: Gaze Behaviors in Human-Robot Handovers
 shorttitle: Gaze Behaviors in Human-Robot Handovers
+nickname: GazeHandovers
 location: Cornell University, USA
 type: robotics
 image: handover_gaze_sketch.png
@@ -16,14 +17,14 @@ collaborators: Alap Kshirsagar (Cornell), Melanie Lim (Cornell), Shemar Christia
 <p align="justify">
 This project investigates gaze behaviors of a robot receiving an object from a human. Robot gaze is an important nonverbal behavior during human-robot handovers, yet prior work has only studied robots as givers. We analyze videos and human participant studies to make design recommendations for how to program a receiver robot’s social gaze.
 </p>
-Publications: 
+<!-- Publications: 
 <br>
 - T. Faibish*, <b>A. Kshirsagar*</b>, G. Hoffman and Y. Edan. <a href = "https://link.springer.com/article/10.1007/s12369-021-00836-z"> "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers." </a> <i>International Journal of Social Robotics</i>, 2022 (*co-first authors)
 <br>
 - <b>A. Kshirsagar</b>, M. Lim, S. Christian and G. Hoffman, "Robot Gaze Behaviors in Human-to-Robot Handovers", IEEE Robotics and Automation Letters 5(4):6552-6558, 2020 <a href="https://ieeexplore.ieee.org/document/9165096"> Link </a>
 <br>
 <br>
-<br>
+<br> -->
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eW6IvZKLrlQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>

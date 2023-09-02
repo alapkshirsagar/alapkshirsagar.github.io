@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Design and Development of a Dismantable Semi Rigid Remotely Controlled Airship"
+project: SemirigidAirship
 year: 2015
 shortref: "Kshirsagar et al. IACE 2015"
 shorttitle: 
