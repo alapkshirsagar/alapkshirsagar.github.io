@@ -5,7 +5,7 @@ shorttitle: Trajectory Simulation of Breakaway Aerostats
 nickname: BreakawayAerostat
 location: IIT Bombay, India
 type: others
-image: breakaway.png
+image: breakaway.jpg
 category: projects
 published: true
 year: 2014

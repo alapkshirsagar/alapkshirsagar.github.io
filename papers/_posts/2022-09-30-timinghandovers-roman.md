@@ -11,7 +11,7 @@ volume:
 issue:
 pages:
 authors: "*Kshirsagar, A., *Ravi R. K., Kress-Gazit, H., & Hoffman, G."
-image: timinghandovers-roman.png
+image: timinghandovers-roman.jpg
 pdf: 2022-09-30-timinghandovers-roman.pdf
 pdflink:
 fulltext:  

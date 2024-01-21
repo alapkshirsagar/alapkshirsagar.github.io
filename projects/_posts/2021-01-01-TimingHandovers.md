@@ -5,7 +5,7 @@ shorttitle: Timing-specified Controllers for Human-Robot handovers
 nickname: TimingHandovers
 location: Cornell University, USA
 type: robotics
-image: timinghandovers-roman.png
+image: timinghandovers-roman.jpg
 category: projects
 published: true
 year: 2021

@@ -11,7 +11,7 @@ volume: 5
 issue: 4
 pages: 6552-6558
 authors: "Kshirsagar, A., Lim, M., Christian, S., & Hoffman, G."
-image: handover-gaze-ral.png
+image: handover-gaze-ral.jpg
 pdf: 2020-08-15-handoversgaze-ral.pdf
 pdflink: 
 fulltext:  

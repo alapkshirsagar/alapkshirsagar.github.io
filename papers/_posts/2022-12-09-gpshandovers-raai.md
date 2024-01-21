@@ -11,7 +11,7 @@ volume:
 issue:
 pages:
 authors: "*Kshirsagar, A., *Faibish, T., Hoffman, G. & Biess, A."
-image: handover-gps-raai.png
+image: handover-gps-raai.jpg
 pdf: 2022-12-09-gpshandovers-raai.pdf
 pdflink:
 fulltext:  

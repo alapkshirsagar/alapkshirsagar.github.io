@@ -11,7 +11,7 @@ volume:
 issue:
 pages:
 authors: "Kshirsagar, A."
-image: rockerbogie.png
+image: rockerbogie.jpg
 pdf: 2014-05-07-btech-dissertation.pdf
 pdflink:
 fulltext:  

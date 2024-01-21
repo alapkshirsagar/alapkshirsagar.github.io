@@ -10,7 +10,7 @@ volume:
 issue:
 pages:
 authors: "Kshirsagar, A. & Hoffman, G."
-image: handovers-hripioneers.png
+image: handovers-hripioneers.jpg
 pdf: 2022-03-07-handovers-hripioneers.pdf
 pdflink: 
 fulltext: https://dl.acm.org/doi/abs/10.5555/3523760.3523959

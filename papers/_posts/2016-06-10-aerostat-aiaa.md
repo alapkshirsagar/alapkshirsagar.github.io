@@ -11,7 +11,7 @@ volume:
 issue:
 pages:
 authors: "Kshirsagar, A., Pant., R. & Bodi., K."
-image: breakaway.png
+image: breakaway.jpg
 pdf: 2016-06-10-aerostat-aiaa.pdf
 pdflink:
 fulltext:  

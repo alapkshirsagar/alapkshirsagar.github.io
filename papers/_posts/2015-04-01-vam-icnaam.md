@@ -11,7 +11,7 @@ volume:
 issue:
 pages:
 authors: "Kshirsagar, A., Harursampath, D., & Gupta, B.R."
-image: vam.png
+image: vam.jpg
 pdf: 2015-04-01-vam-icnaam.pdf
 pdflink:
 fulltext:  

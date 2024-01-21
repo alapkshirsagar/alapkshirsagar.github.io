@@ -11,7 +11,7 @@ volume: 8
 issue: 2
 pages: 58-66
 authors: "Kshirsagar, A. & Guha, A."
-image: rockerbogie.png
+image: rockerbogie.jpg
 pdf: 2016-07-15-rockerbogie-ijvss.pdf
 pdflink: 
 fulltext:  
