@@ -16,7 +16,7 @@ pdf: 2020-08-15-handoversgaze-ral.pdf
 pdflink: 
 fulltext:  
 pubtype: journal
-github:
+github: https://github.com/alapkshirsagar/handover-gaze-annotations
 pmid:  
 pmcid:
 f1000:

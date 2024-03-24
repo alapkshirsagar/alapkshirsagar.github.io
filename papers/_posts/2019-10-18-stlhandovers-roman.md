@@ -6,7 +6,7 @@ year: 2019
 shortref: "Kshirsagar et al. ROMAN 2019"
 shorttitle: 
 nickname: stlhandovers-roman
-journal: "IEEE International Conference on Robot and Human Interactive Communication (Best Late Breaking Report Award)"
+journal: "IEEE International Conference on Robot and Human Interactive Communication - Late Breaking Report (Best Late Breaking Report Award)"
 volume:
 issue:
 pages:

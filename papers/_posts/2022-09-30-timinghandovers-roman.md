@@ -16,7 +16,7 @@ pdf: 2022-09-30-timinghandovers-roman.pdf
 pdflink:
 fulltext:  
 pubtype: conference
-github:
+github: https://github.com/alapkshirsagar/handovers_kinova_gen3
 pmid:  
 pmcid:
 f1000:

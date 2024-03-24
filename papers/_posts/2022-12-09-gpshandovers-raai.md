@@ -16,7 +16,7 @@ pdf: 2022-12-09-gpshandovers-raai.pdf
 pdflink:
 fulltext:  
 pubtype: conference
-github:
+github: https://github.com/alapkshirsagar/real-franka-gps
 pmid:  
 pmcid:
 f1000:

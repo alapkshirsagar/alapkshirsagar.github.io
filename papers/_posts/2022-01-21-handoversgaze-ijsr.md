@@ -16,7 +16,7 @@ pdf: 2022-01-21-handoversgaze-ijsr.pdf
 pdflink:
 fulltext:  
 pubtype: journal
-github:
+github: https://github.com/alapkshirsagar/handover-gaze-sawyer
 pmid:  
 pmcid:
 f1000:
