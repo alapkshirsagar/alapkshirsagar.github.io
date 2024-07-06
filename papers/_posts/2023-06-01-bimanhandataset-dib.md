@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Dataset of Bimanual Human-to-Human Object Handovers"
-project: DatasetsHandovers
+project: LfDHRI
 year: 2023
 shortref: "Kshirsagar et al. DIB 2023"
 shorttitle: "Dataset of Bimanual Human-to-Human Object Handovers"

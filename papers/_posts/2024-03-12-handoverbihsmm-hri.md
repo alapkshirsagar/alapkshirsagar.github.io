@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Kinematically Constrained Human-like Bimanual Robot-to-Human Handovers"
+project: LfDHRI
 year: 2024
 shortref:
 shorttitle: 
@@ -9,7 +10,7 @@ journal: "ACM/IEEE International Conference on Human-Robot Interaction (HRI) - L
 volume:
 issue:
 pages:
-authors: "Goeksu, Y., Almeida-Correia, A., Prasad, V., Kshirsagar, A., Koert, D., Peters, J., Chalvatzaki, G."
+authors: "Goeksu, Y., Almeida-Correia, A., Prasad, V., Kshirsagar, A., Koert, D., Peters, J., & Chalvatzaki, G."
 image: handover-bihsmm-hri.jpg
 pdf: 2024-03-12-handoverbihsmm-hri.pdf
 pdflink: 

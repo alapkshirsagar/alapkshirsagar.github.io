@@ -9,7 +9,7 @@ journal: "NeurIPS Workshop on Touch Processing: a new Sensing Modality for AI"
 volume:
 issue:
 pages:
-authors: "Boehm, A., Schneider, T., Belousov, B., Kshirsagar, A., Lin, L., Doerschner, K., Drewing, K., Rothkopf, C.A., Peters, J."
+authors: "Boehm, A., Schneider, T., Belousov, B., Kshirsagar, A., Lin, L., Doerschner, K., Drewing, K., Rothkopf, C.A., & Peters, J."
 image: tart-neurips.jpg
 pdf: 2023-09-25-tart-neuripsworkshop.pdf
 pdflink: 

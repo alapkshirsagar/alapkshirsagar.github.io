@@ -1,6 +1,7 @@
 ---
 layout: paper
 title: "Transition State Clustering for Interaction Segmentation and Learning"
+project: LfDHRI
 year: 2024
 shortref:
 shorttitle: 
@@ -9,8 +10,8 @@ journal: "ACM/IEEE International Conference on Human-Robot Interaction (HRI) - L
 volume:
 issue:
 pages:
-authors: "Hahne, F., Prasad, V., Kshirsagar, A., Koert, D., Stock-Homburg, R.M., Peters, J., Chalvatzaki, G."
-image: handover-bihsmm-hri.jpg
+authors: "Hahne, F., Prasad, V., Kshirsagar, A., Koert, D., Stock-Homburg, R.M., Peters, J., & Chalvatzaki, G."
+image: tschmm-hri.jpg
 pdf: 2024-03-12-tschmm-hri.pdf
 pdflink: 
 fulltext:

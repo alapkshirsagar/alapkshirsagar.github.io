@@ -10,7 +10,7 @@ journal: "Frontiers in Neurorobotics"
 volume: 17
 issue: 1280341
 pages: 
-authors: "*Gu, S., *Kshirsagar, A., *Du Y., Chen G., Peters J., Knoll A."
+authors: "*Gu, S., *Kshirsagar, A., *Du Y., Chen G., Peters J., & Knoll A."
 image: saferlinter-frontneurorob.jpg
 pdf: 2023-11-09-saferlinter-frontneurorob.pdf
 pdflink:
